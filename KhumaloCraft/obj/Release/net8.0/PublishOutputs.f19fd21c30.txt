@@ -1,0 +1,7 @@
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\KhumaloCraft.exe
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\KhumaloCraft.dll
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\KhumaloCraft.deps.json
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\KhumaloCraft.runtimeconfig.json
+C:\Users\xar58\source\repos\KhumaloCraft\KhumaloCraft\obj\Release\net8.0\PubTmp\Out\KhumaloCraft.pdb
